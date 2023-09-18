@@ -16,9 +16,9 @@ namespace ClickCart.Presentation
         static async Task Main(string[] args)
         {
             UserInterface ui = new UserInterface();
-            await ui.RunCodeAsync();
+            //await ui.RunCodeAsync();
             //UserService userService = new UserService();
-            /*MerchantService MerchantService = new MerchantService();
+            MerchantService MerchantService = new MerchantService();
             //Repository<User> repository = new Repository<User>();
             ProductService ProductService = new ProductService();
 
@@ -38,7 +38,7 @@ namespace ClickCart.Presentation
             };
 
             await orderService.PurchaseProductAsync(1, 4, OrderResult);
-*/
+
             //ProductMerchantService Get All for Console Ui
             /*ProductMerchantService productMerchantService = new ProductMerchantService();
              var result2 = await productMerchantService.GetAllProductsWithMerchantsInfoAsync();

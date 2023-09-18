@@ -66,53 +66,12 @@ namespace ClickCart.Presentation.UI
 
 
 
-            Console.WriteLine("1 => Create");
-            string[] options = { " Create", " Update", " GetById", " GetAll", " Delete", " Exit" };
-
-            Menu mainMenu = new Menu(options, prompt);
-
-            int selectIndex = mainMenu.Run();
-
-            switch (selectIndex)
-            {
-                case 0:
-                    {
-                        Console.WriteLine("Create");
-                    }
-                    break;
-                case 1:
-                    {
-                        Console.WriteLine("Update");
-                    }
-                    break;
-                case 2:
-                    {
-                        Console.WriteLine("GetById");
-                    }
-                    break;
-                case 3:
-                    {
-                        Console.WriteLine("GetAll");
-                    }
-                    break;
-                case 4:
-                    {
-                        Console.WriteLine("Delete");
-                    }
-                    break;
-                case 5:
-                    {
-                        Console.WriteLine("Exit");
-                    }
-                    break;
-            }
-
-            Console.ReadKey(true);
-        }
+            Console.WriteLine("1 => Foydalanuvchi sifatida ro`yhatdan o`tish");
+            Console.WriteLine("1 => Kirish");
             #endregion
             while (true)
             {
-
+                
             }
         }
         static void OnAudioPlaybackStopped()

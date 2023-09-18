@@ -8,19 +8,7 @@
     "Paymentinfo": 2,
     "OrderStatus": "Processing",
     "Id": 1,
-    "CreatedAt": "2023-09-18T07:32:23.5583141Z",
-    "UpdatedAt": "2023-09-18T07:32:23.5583138Z"
-  },
-  {
-    "UserId": 1,
-    "ProductId": 4,
-    "TotalAmount": 500.0,
-    "ProductQuantity": 2,
-    "ShippingAddressId": "123 Main Street",
-    "Paymentinfo": 2,
-    "OrderStatus": "Processing",
-    "Id": 2,
-    "CreatedAt": "2023-09-18T07:32:28.2470998Z",
-    "UpdatedAt": "2023-09-18T07:32:28.2470995Z"
+    "CreatedAt": "2023-09-18T10:28:57.5144787Z",
+    "UpdatedAt": "2023-09-18T10:28:57.5144781Z"
   }
 ]
