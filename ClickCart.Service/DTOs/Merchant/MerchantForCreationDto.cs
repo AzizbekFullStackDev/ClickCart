@@ -9,5 +9,7 @@ public class MerchantForCreationDto
     public string MerchantDecription { get; set; }
     public Roles Role { get; set; }
     public string PhoneNumber { get; set; }
-    public Rating MerchantRating { get; set; }
+    public string EmailAddress { get; set; }
+    public string Password { get; set; }
+
 }

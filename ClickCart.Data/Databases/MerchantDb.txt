@@ -2,10 +2,11 @@
   {
     "FirstName": "Sammy",
     "LastName": "Alexa",
+    "EmailAddress": null,
     "MerchantDecription": "A great merchant",
+    "Password": null,
     "Role": 3,
     "PhoneNumber": "555-555-5555",
-    "MerchantRating": 5,
     "Id": 1,
     "CreatedAt": "2023-09-17T12:58:25.5341018Z",
     "UpdatedAt": "2023-09-17T13:01:00.0502106Z"
@@ -13,12 +14,25 @@
   {
     "FirstName": "smith",
     "LastName": "Annae",
+    "EmailAddress": null,
     "MerchantDecription": "A great merchant",
+    "Password": null,
     "Role": 3,
     "PhoneNumber": "555-555-5555",
-    "MerchantRating": 5,
     "Id": 2,
     "CreatedAt": "2023-09-17T12:59:02.3530944Z",
     "UpdatedAt": "2023-09-17T12:59:02.3530945Z"
+  },
+  {
+    "FirstName": "Mirjalol",
+    "LastName": "toraboyev",
+    "EmailAddress": "dasda@gmail.com",
+    "MerchantDecription": "dev",
+    "Password": "1234567777",
+    "Role": 3,
+    "PhoneNumber": "998887766",
+    "Id": 3,
+    "CreatedAt": "2023-09-19T06:53:02.1299403Z",
+    "UpdatedAt": "2023-09-19T06:53:02.1299404Z"
   }
 ]

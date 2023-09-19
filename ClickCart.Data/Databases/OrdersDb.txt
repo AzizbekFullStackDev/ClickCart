@@ -1,14 +1,14 @@
 [
   {
-    "UserId": 1,
-    "ProductId": 4,
-    "TotalAmount": 500.0,
-    "ProductQuantity": 2,
-    "ShippingAddressId": "123 Main Street",
-    "Paymentinfo": 2,
+    "UserId": 2,
+    "ProductId": 6,
+    "TotalAmount": 0.0,
+    "ProductQuantity": 1,
+    "ShippingAddressId": "Bunyod ko`chasi",
+    "Paymentinfo": 1,
     "OrderStatus": "Processing",
     "Id": 1,
-    "CreatedAt": "2023-09-18T10:28:57.5144787Z",
-    "UpdatedAt": "2023-09-18T10:28:57.5144781Z"
+    "CreatedAt": "2023-09-19T11:01:31.6362557Z",
+    "UpdatedAt": "2023-09-19T11:01:31.6362553Z"
   }
 ]

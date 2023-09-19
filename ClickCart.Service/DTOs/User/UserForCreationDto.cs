@@ -16,7 +16,6 @@ public class UserForCreationDto
     public string PhoneNumber { get; set; }
     public PaymentMethod PaymentInformation { get; set; }
     public Roles UserRole { get; set; }
-    public decimal PromotionBalance { get; set; }
     public decimal Balance { get; set; }
     public DateTime DateOfBirth { get; set; }
 }

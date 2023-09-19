@@ -36,10 +36,6 @@ public class Repository<TEntity> : IRepository<TEntity> where TEntity : Auditabl
         {
             this.PathDB = DatabasePath.ProductDb;
         }
-        else if (typeof(TEntity) == typeof(Registration))
-        {
-            this.PathDB = DatabasePath.RegistrationDb;
-        }
         else if (typeof(TEntity) == typeof(User))
         {
             this.PathDB = DatabasePath.UserDb;

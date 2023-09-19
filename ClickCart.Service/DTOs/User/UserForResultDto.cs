@@ -15,7 +15,7 @@ public class UserForResultDto
     public string Country { get; set; }
     public string PhoneNumber { get; set; }
     public PaymentMethod PaymentInformation { get; set; }
-    public decimal PromotionBalance { get; set; }
     public decimal Balance { get; set; }
     public DateTime DateOfBirth { get; set; }
+    public string Password { get; set; }
 }

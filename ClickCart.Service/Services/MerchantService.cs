@@ -27,9 +27,10 @@ namespace ClickCart.Service.Services
                 FirstName = dto.FirstName,
                 LastName = dto.LastName,
                 MerchantDecription = dto.MerchantDecription,
-                Role = dto.Role,
-                MerchantRating = dto.MerchantRating,
+                Role = Domain.Enums.Roles.Merchant,
                 PhoneNumber = dto.PhoneNumber,
+                EmailAddress = dto.EmailAddress,
+                Password = dto.Password,
                 CreatedAt = DateTime.UtcNow,
                 UpdatedAt = DateTime.UtcNow,
             };
@@ -41,9 +42,10 @@ namespace ClickCart.Service.Services
                 FirstName = dto.FirstName,
                 LastName = dto.LastName,
                 MerchantDecription = dto.MerchantDecription,
-                Role = dto.Role,
-                MerchantRating = dto.MerchantRating,
+                Role = Domain.Enums.Roles.Merchant,
                 PhoneNumber = dto.PhoneNumber,
+                EmailAddress = dto.EmailAddress,
+                Password = dto.Password,
             };
             return mfrd;
         }
@@ -60,9 +62,10 @@ namespace ClickCart.Service.Services
                     FirstName = dto.FirstName,
                     LastName = dto.LastName,
                     MerchantDecription = dto.MerchantDecription,
-                    Role = dto.Role,
-                    MerchantRating = dto.MerchantRating,
+                    Role = Domain.Enums.Roles.Merchant,
                     PhoneNumber = dto.PhoneNumber,
+                    EmailAddress = dto.EmailAddress,
+                    Password = dto.Password,
                 };
                 MerchantForResultDtos.Add(UpdatedData);
             }
@@ -82,9 +85,10 @@ namespace ClickCart.Service.Services
                 FirstName = dto.FirstName,
                 LastName = dto.LastName,
                 MerchantDecription = dto.MerchantDecription,
-                Role = dto.Role,
-                MerchantRating = dto.MerchantRating,
+                Role = Domain.Enums.Roles.Merchant,
                 PhoneNumber = dto.PhoneNumber,
+                EmailAddress = dto.EmailAddress,
+                Password = dto.Password,
             };
             return mfrd;
         }
@@ -116,11 +120,12 @@ namespace ClickCart.Service.Services
                 FirstName = dto.FirstName,
                 LastName = dto.LastName,
                 MerchantDecription = dto.MerchantDecription,
-                Role = dto.Role,
-                MerchantRating = dto.MerchantRating,
+                Role = Domain.Enums.Roles.Merchant,
                 PhoneNumber = dto.PhoneNumber,
                 CreatedAt = check.CreatedAt,
                 UpdatedAt = DateTime.UtcNow,
+                EmailAddress = dto.EmailAddress,
+                Password = dto.Password,
             };
             await MerchantRepository.UpdateAsync(MerchantForUpdate);
             MerchantForResultDto result = new MerchantForResultDto()
@@ -129,9 +134,10 @@ namespace ClickCart.Service.Services
                 FirstName = dto.FirstName,
                 LastName = dto.LastName,
                 MerchantDecription = dto.MerchantDecription,
-                Role = dto.Role,
-                MerchantRating = dto.MerchantRating,
+                Role = Domain.Enums.Roles.Merchant,
                 PhoneNumber = dto.PhoneNumber,
+                EmailAddress = dto.EmailAddress,
+                Password = dto.Password,
             };
 
             return result;

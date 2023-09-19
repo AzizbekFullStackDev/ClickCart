@@ -31,13 +31,12 @@ public class UserService : IUserService
             PhoneNumber = dto.PhoneNumber,
             DateOfBirth = dto.DateOfBirth,
             Balance = dto.Balance,
-            PromotionBalance = dto.PromotionBalance,
             PaymentInformation = dto.PaymentInformation,
             City = dto.City,
             Country = dto.Country,
             StreetAddress = dto.StreetAddress,
             ZipPostalCode = dto.ZipPostalCode,
-            UserRole = dto.UserRole,
+            UserRole = Domain.Enums.Roles.Customer,
             CreatedAt = DateTime.UtcNow,
             UpdatedAt = DateTime.UtcNow,
         };
@@ -53,12 +52,13 @@ public class UserService : IUserService
             PhoneNumber = dto.PhoneNumber,
             DateOfBirth = dto.DateOfBirth,
             Balance = dto.Balance,
-            PromotionBalance = dto.PromotionBalance,
             PaymentInformation = dto.PaymentInformation,
             City = dto.City,
             Country = dto.Country,
             StreetAddress = dto.StreetAddress,
             ZipPostalCode = dto.ZipPostalCode,
+            Password = dto.Password,
+
         };
         return ufrd;
     }
@@ -71,6 +71,7 @@ public class UserService : IUserService
         {
             UserForResultDto UpdatedData = new UserForResultDto()
             {
+                Id = dto.Id,
                 FirstName = dto.FirstName,
                 EmailAddress = dto.EmailAddress,
                 LastName = dto.LastName,
@@ -78,12 +79,13 @@ public class UserService : IUserService
                 PhoneNumber = dto.PhoneNumber,
                 DateOfBirth = dto.DateOfBirth,
                 Balance = dto.Balance,
-                PromotionBalance = dto.PromotionBalance,
                 PaymentInformation = dto.PaymentInformation,
                 City = dto.City,
                 Country = dto.Country,
                 StreetAddress = dto.StreetAddress,
                 ZipPostalCode = dto.ZipPostalCode,
+                Password = dto.Password,
+
             };
             userForResultDtos.Add(UpdatedData);
         }
@@ -99,6 +101,7 @@ public class UserService : IUserService
         }
         var ufrd = new UserForResultDto()
         {
+            Id = id,
             FirstName = dto.FirstName,
             EmailAddress = dto.EmailAddress,
             LastName = dto.LastName,
@@ -106,12 +109,12 @@ public class UserService : IUserService
             PhoneNumber = dto.PhoneNumber,
             DateOfBirth = dto.DateOfBirth,
             Balance = dto.Balance,
-            PromotionBalance = dto.PromotionBalance,
             PaymentInformation = dto.PaymentInformation,
             City = dto.City,
             Country = dto.Country,
             StreetAddress = dto.StreetAddress,
             ZipPostalCode = dto.ZipPostalCode,
+            Password = dto.Password,
         };
         return ufrd;
     }
@@ -148,7 +151,6 @@ public class UserService : IUserService
             DateOfBirth = check.DateOfBirth,
             Balance = dto.Balance,
             Password = check.Password,
-            PromotionBalance = dto.PromotionBalance,
             PaymentInformation = dto.PaymentInformation,
             City = dto.City,
             Country = dto.Country,
@@ -169,12 +171,13 @@ public class UserService : IUserService
             PhoneNumber = dto.PhoneNumber,
             DateOfBirth = dto.DateOfBirth,
             Balance = dto.Balance,
-            PromotionBalance = dto.PromotionBalance,
             PaymentInformation = dto.PaymentInformation,
             City = dto.City,
             Country = dto.Country,
             StreetAddress = dto.StreetAddress,
             ZipPostalCode = dto.ZipPostalCode,
+            Password = dto.Password,
+
         };
 
         return result;
