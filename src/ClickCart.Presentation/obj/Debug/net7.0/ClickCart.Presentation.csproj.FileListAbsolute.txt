@@ -56,3 +56,32 @@ D:\Net new Source Codes\ClickCart\src\ClickCart.Presentation\obj\Debug\net7.0\re
 D:\Net new Source Codes\ClickCart\src\ClickCart.Presentation\obj\Debug\net7.0\ClickCart.Presentation.pdb
 D:\Net new Source Codes\ClickCart\src\ClickCart.Presentation\obj\Debug\net7.0\ClickCart.Presentation.genruntimeconfig.cache
 D:\Net new Source Codes\ClickCart\src\ClickCart.Presentation\obj\Debug\net7.0\ref\ClickCart.Presentation.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\bin\Debug\net7.0\ClickCart.Presentation.exe
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\bin\Debug\net7.0\ClickCart.Presentation.deps.json
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\bin\Debug\net7.0\ClickCart.Presentation.runtimeconfig.json
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\bin\Debug\net7.0\ClickCart.Presentation.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\bin\Debug\net7.0\ClickCart.Presentation.pdb
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\bin\Debug\net7.0\NAudio.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\bin\Debug\net7.0\NAudio.Asio.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\bin\Debug\net7.0\NAudio.Core.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\bin\Debug\net7.0\NAudio.Midi.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\bin\Debug\net7.0\NAudio.Wasapi.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\bin\Debug\net7.0\NAudio.WinMM.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\bin\Debug\net7.0\ClickCart.Data.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\bin\Debug\net7.0\ClickCart.Domain.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\bin\Debug\net7.0\ClickCart.Service.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\bin\Debug\net7.0\ClickCart.Service.pdb
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\bin\Debug\net7.0\ClickCart.Data.pdb
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\bin\Debug\net7.0\ClickCart.Domain.pdb
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\obj\Debug\net7.0\ClickCart.Presentation.csproj.AssemblyReference.cache
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\obj\Debug\net7.0\ClickCart.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\obj\Debug\net7.0\ClickCart.Presentation.AssemblyInfoInputs.cache
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\obj\Debug\net7.0\ClickCart.Presentation.AssemblyInfo.cs
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\obj\Debug\net7.0\ClickCart.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\obj\Debug\net7.0\ClickCart.Presentation.csproj.CopyComplete
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\obj\Debug\net7.0\ClickCart.Presentation.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\obj\Debug\net7.0\refint\ClickCart.Presentation.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\obj\Debug\net7.0\ClickCart.Presentation.pdb
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\obj\Debug\net7.0\ClickCart.Presentation.genruntimeconfig.cache
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Presentation\obj\Debug\net7.0\ref\ClickCart.Presentation.dll

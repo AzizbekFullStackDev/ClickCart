@@ -1,6 +1,6 @@
 [
   {
-    "FirstName": "mirjalol",
+    "FirstName": "Mirjalol",
     "LastName": "toraboyev",
     "EmailAddress": "qwertyuiop@gmail.com",
     "Password": "2002003",
@@ -9,6 +9,6 @@
     "PhoneNumber": "23456",
     "Id": 1,
     "CreatedAt": "2023-09-20T07:02:17.59851Z",
-    "UpdatedAt": "2023-09-20T07:02:17.5985918Z"
+    "UpdatedAt": "2023-09-20T08:06:45.641304Z"
   }
 ]

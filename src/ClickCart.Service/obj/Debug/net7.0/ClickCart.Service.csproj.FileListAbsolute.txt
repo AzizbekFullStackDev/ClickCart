@@ -32,3 +32,20 @@ D:\Net new Source Codes\ClickCart\src\ClickCart.Service\obj\Debug\net7.0\ClickCa
 D:\Net new Source Codes\ClickCart\src\ClickCart.Service\obj\Debug\net7.0\refint\ClickCart.Service.dll
 D:\Net new Source Codes\ClickCart\src\ClickCart.Service\obj\Debug\net7.0\ClickCart.Service.pdb
 D:\Net new Source Codes\ClickCart\src\ClickCart.Service\obj\Debug\net7.0\ref\ClickCart.Service.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Service\bin\Debug\net7.0\ClickCart.Service.deps.json
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Service\bin\Debug\net7.0\ClickCart.Service.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Service\bin\Debug\net7.0\ClickCart.Service.pdb
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Service\bin\Debug\net7.0\ClickCart.Data.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Service\bin\Debug\net7.0\ClickCart.Domain.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Service\bin\Debug\net7.0\ClickCart.Data.pdb
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Service\bin\Debug\net7.0\ClickCart.Domain.pdb
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Service\obj\Debug\net7.0\ClickCart.Service.csproj.AssemblyReference.cache
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Service\obj\Debug\net7.0\ClickCart.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Service\obj\Debug\net7.0\ClickCart.Service.AssemblyInfoInputs.cache
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Service\obj\Debug\net7.0\ClickCart.Service.AssemblyInfo.cs
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Service\obj\Debug\net7.0\ClickCart.Service.csproj.CoreCompileInputs.cache
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Service\obj\Debug\net7.0\ClickCart.Service.csproj.CopyComplete
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Service\obj\Debug\net7.0\ClickCart.Service.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Service\obj\Debug\net7.0\refint\ClickCart.Service.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Service\obj\Debug\net7.0\ClickCart.Service.pdb
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Service\obj\Debug\net7.0\ref\ClickCart.Service.dll

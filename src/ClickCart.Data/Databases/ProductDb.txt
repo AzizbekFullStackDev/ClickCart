@@ -6,7 +6,7 @@
     "Category": 6,
     "Brand": "UZB",
     "StockQuantity": 50.0,
-    "MerchantId": 2,
+    "MerchantId": 1,
     "Id": 1,
     "CreatedAt": "2023-09-17T14:30:35.789899Z",
     "UpdatedAt": "2023-09-17T14:31:19.9084458Z"
@@ -18,7 +18,7 @@
     "Category": 1,
     "Brand": "TechCorp",
     "StockQuantity": 25.0,
-    "MerchantId": 3,
+    "MerchantId": 1,
     "Id": 2,
     "CreatedAt": "2023-09-18T10:45:20.123456Z",
     "UpdatedAt": "2023-09-18T10:46:15.987654Z"
@@ -42,7 +42,7 @@
     "Category": 7,
     "Brand": "FurnitureWorld",
     "StockQuantity": 35.0,
-    "MerchantId": 4,
+    "MerchantId": 1,
     "Id": 4,
     "CreatedAt": "2023-09-20T08:30:10.987654Z",
     "UpdatedAt": "2023-09-20T08:31:05.54321Z"
@@ -54,7 +54,7 @@
     "Category": 5,
     "Brand": "CoffeeMaster",
     "StockQuantity": 75.0,
-    "MerchantId": 2,
+    "MerchantId": 1,
     "Id": 5,
     "CreatedAt": "2023-09-21T15:20:50.234567Z",
     "UpdatedAt": "2023-09-21T15:21:40.345678Z"
@@ -66,7 +66,7 @@
     "Category": 4,
     "Brand": "TechVision",
     "StockQuantity": 20.0,
-    "MerchantId": 5,
+    "MerchantId": 1,
     "Id": 6,
     "CreatedAt": "2023-09-22T09:55:15.876543Z",
     "UpdatedAt": "2023-09-22T09:56:10.987654Z"
@@ -90,7 +90,7 @@
     "Category": 8,
     "Brand": "SoundWave",
     "StockQuantity": 45.0,
-    "MerchantId": 3,
+    "MerchantId": 1,
     "Id": 8,
     "CreatedAt": "2023-09-24T13:40:35.234567Z",
     "UpdatedAt": "2023-09-24T13:41:25.345678Z"
@@ -102,7 +102,7 @@
     "Category": 3,
     "Brand": "PhotoPro",
     "StockQuantity": 30.0,
-    "MerchantId": 4,
+    "MerchantId": 1,
     "Id": 9,
     "CreatedAt": "2023-09-25T16:25:05.654321Z",
     "UpdatedAt": "2023-09-25T16:26:00.765432Z"
@@ -114,7 +114,7 @@
     "Category": 1,
     "Brand": "GameTech",
     "StockQuantity": 15.0,
-    "MerchantId": 5,
+    "MerchantId": 1,
     "Id": 10,
     "CreatedAt": "2023-09-26T14:15:30.876543Z",
     "UpdatedAt": "2023-09-26T14:16:25.987654Z"
@@ -138,7 +138,7 @@
     "Category": 2,
     "Brand": "TechWear",
     "StockQuantity": 55.0,
-    "MerchantId": 3,
+    "MerchantId": 1,
     "Id": 12,
     "CreatedAt": "2023-09-28T09:20:50.234567Z",
     "UpdatedAt": "2023-09-28T09:21:40.345678Z"
@@ -150,7 +150,7 @@
     "Category": 7,
     "Brand": "KitchenEssentials",
     "StockQuantity": 70.0,
-    "MerchantId": 2,
+    "MerchantId": 1,
     "Id": 13,
     "CreatedAt": "2023-09-29T08:15:25.876543Z",
     "UpdatedAt": "2023-09-29T08:16:20.987654Z"
@@ -162,7 +162,7 @@
     "Category": 7,
     "Brand": "CleanMaster",
     "StockQuantity": 25.0,
-    "MerchantId": 4,
+    "MerchantId": 1,
     "Id": 14,
     "CreatedAt": "2023-09-30T15:30:40.765432Z",
     "UpdatedAt": "2023-09-30T15:31:35.654321Z"
@@ -174,7 +174,7 @@
     "Category": 8,
     "Brand": "NetConnect",
     "StockQuantity": 50.0,
-    "MerchantId": 5,
+    "MerchantId": 1,
     "Id": 15,
     "CreatedAt": "2023-10-01T11:40:15.234567Z",
     "UpdatedAt": "2023-10-01T11:41:10.345678Z"
@@ -198,7 +198,7 @@
     "Category": 1,
     "Brand": "DataSaver",
     "StockQuantity": 30.0,
-    "MerchantId": 3,
+    "MerchantId": 1,
     "Id": 17,
     "CreatedAt": "2023-10-03T14:25:05.765432Z",
     "UpdatedAt": "2023-10-03T14:26:00.654321Z"
@@ -210,7 +210,7 @@
     "Category": 2,
     "Brand": "TechTab",
     "StockQuantity": 20.0,
-    "MerchantId": 2,
+    "MerchantId": 1,
     "Id": 18,
     "CreatedAt": "2023-10-04T13:20:50.234567Z",
     "UpdatedAt": "2023-10-04T13:21:40.345678Z"
@@ -222,7 +222,7 @@
     "Category": 4,
     "Brand": "StylePro",
     "StockQuantity": 65.0,
-    "MerchantId": 5,
+    "MerchantId": 1,
     "Id": 19,
     "CreatedAt": "2023-10-05T12:15:35.876543Z",
     "UpdatedAt": "2023-10-05T12:16:30.987654Z"
@@ -246,7 +246,7 @@
     "Category": 5,
     "Brand": "Asus",
     "StockQuantity": 3.0,
-    "MerchantId": 2,
+    "MerchantId": 1,
     "Id": 21,
     "CreatedAt": "2023-09-20T04:44:04.3732094Z",
     "UpdatedAt": "2023-09-20T04:44:04.3732096Z"
