@@ -1,0 +1,14 @@
+[
+  {
+    "FirstName": "mirjalol",
+    "LastName": "toraboyev",
+    "EmailAddress": "qwertyuiop@gmail.com",
+    "Password": "2002003",
+    "MerchantDecription": "man hackerman",
+    "Role": 3,
+    "PhoneNumber": "23456",
+    "Id": 1,
+    "CreatedAt": "2023-09-20T07:02:17.59851Z",
+    "UpdatedAt": "2023-09-20T07:02:17.5985918Z"
+  }
+]

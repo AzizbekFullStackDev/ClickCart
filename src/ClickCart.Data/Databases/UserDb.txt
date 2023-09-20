@@ -1,0 +1,40 @@
+[
+  {
+    "FirstName": "Mirjalol",
+    "LastName": "To'raboyev",
+    "Username": "caplan",
+    "EmailAddress": "qwertyuiop@gmail.com",
+    "Password": "2002003",
+    "StreetAddress": "jtyjyt",
+    "City": "yujyu",
+    "ZipPostalCode": 43534,
+    "Country": "uuyjhthyt",
+    "PhoneNumber": "43234",
+    "PaymentInformation": 5,
+    "UserRole": 1,
+    "Balance": 56565.0,
+    "DateOfBirth": "2002-12-11T00:00:00",
+    "Id": 1,
+    "CreatedAt": "2023-09-20T06:51:04.5685624Z",
+    "UpdatedAt": "2023-09-20T06:59:37.8827754Z"
+  },
+  {
+    "FirstName": "Azizbek",
+    "LastName": "Muzaffarov",
+    "Username": "666",
+    "EmailAddress": "222",
+    "Password": "333",
+    "StreetAddress": "hgfhf",
+    "City": "hyrhd",
+    "ZipPostalCode": 777,
+    "Country": "dgfd",
+    "PhoneNumber": "888",
+    "PaymentInformation": 3,
+    "UserRole": 1,
+    "Balance": 67596.06,
+    "DateOfBirth": "2005-12-26T00:00:00",
+    "Id": 2,
+    "CreatedAt": "2023-09-20T07:55:06.7412447Z",
+    "UpdatedAt": "2023-09-20T07:56:08.4405498Z"
+  }
+]
