@@ -28,3 +28,18 @@ D:\Net new Source Codes\ClickCart\src\ClickCart.Data\obj\Debug\net7.0\ClickCart.
 D:\Net new Source Codes\ClickCart\src\ClickCart.Data\obj\Debug\net7.0\refint\ClickCart.Data.dll
 D:\Net new Source Codes\ClickCart\src\ClickCart.Data\obj\Debug\net7.0\ClickCart.Data.pdb
 D:\Net new Source Codes\ClickCart\src\ClickCart.Data\obj\Debug\net7.0\ref\ClickCart.Data.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Data\bin\Debug\net7.0\ClickCart.Data.deps.json
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Data\bin\Debug\net7.0\ClickCart.Data.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Data\bin\Debug\net7.0\ClickCart.Data.pdb
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Data\bin\Debug\net7.0\ClickCart.Domain.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Data\bin\Debug\net7.0\ClickCart.Domain.pdb
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Data\obj\Debug\net7.0\ClickCart.Data.csproj.AssemblyReference.cache
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Data\obj\Debug\net7.0\ClickCart.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Data\obj\Debug\net7.0\ClickCart.Data.AssemblyInfoInputs.cache
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Data\obj\Debug\net7.0\ClickCart.Data.AssemblyInfo.cs
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Data\obj\Debug\net7.0\ClickCart.Data.csproj.CoreCompileInputs.cache
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Data\obj\Debug\net7.0\ClickCart.Data.csproj.CopyComplete
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Data\obj\Debug\net7.0\ClickCart.Data.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Data\obj\Debug\net7.0\refint\ClickCart.Data.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Data\obj\Debug\net7.0\ClickCart.Data.pdb
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Data\obj\Debug\net7.0\ref\ClickCart.Data.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Net new Source Codes\\ClickCart\\src\\ClickCart.Domain\\ClickCart.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Azizbek\\Desktop\\Clone\\ClickCart\\src\\ClickCart.Domain\\ClickCart.Domain.csproj",
       "projectName": "ClickCart.Domain",
-      "projectPath": "D:\\Net new Source Codes\\ClickCart\\src\\ClickCart.Domain\\ClickCart.Domain.csproj",
+      "projectPath": "C:\\Users\\Azizbek\\Desktop\\Clone\\ClickCart\\src\\ClickCart.Domain\\ClickCart.Domain.csproj",
       "packagesPath": "C:\\Users\\Azizbek\\.nuget\\packages\\",
-      "outputPath": "D:\\Net new Source Codes\\ClickCart\\src\\ClickCart.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Azizbek\\Desktop\\Clone\\ClickCart\\src\\ClickCart.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Azizbek\\AppData\\Roaming\\NuGet\\NuGet.Config",

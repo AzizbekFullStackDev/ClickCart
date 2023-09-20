@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Net new Source Codes\\ClickCart\\src\\ClickCart.Data\\ClickCart.Data.csproj": {}
+    "C:\\Users\\Azizbek\\Desktop\\Clone\\ClickCart\\src\\ClickCart.Data\\ClickCart.Data.csproj": {}
   },
   "projects": {
-    "D:\\Net new Source Codes\\ClickCart\\src\\ClickCart.Data\\ClickCart.Data.csproj": {
+    "C:\\Users\\Azizbek\\Desktop\\Clone\\ClickCart\\src\\ClickCart.Data\\ClickCart.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Net new Source Codes\\ClickCart\\src\\ClickCart.Data\\ClickCart.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Azizbek\\Desktop\\Clone\\ClickCart\\src\\ClickCart.Data\\ClickCart.Data.csproj",
         "projectName": "ClickCart.Data",
-        "projectPath": "D:\\Net new Source Codes\\ClickCart\\src\\ClickCart.Data\\ClickCart.Data.csproj",
+        "projectPath": "C:\\Users\\Azizbek\\Desktop\\Clone\\ClickCart\\src\\ClickCart.Data\\ClickCart.Data.csproj",
         "packagesPath": "C:\\Users\\Azizbek\\.nuget\\packages\\",
-        "outputPath": "D:\\Net new Source Codes\\ClickCart\\src\\ClickCart.Data\\obj\\",
+        "outputPath": "C:\\Users\\Azizbek\\Desktop\\Clone\\ClickCart\\src\\ClickCart.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Azizbek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Net new Source Codes\\ClickCart\\src\\ClickCart.Domain\\ClickCart.Domain.csproj": {
-                "projectPath": "D:\\Net new Source Codes\\ClickCart\\src\\ClickCart.Domain\\ClickCart.Domain.csproj"
+              "C:\\Users\\Azizbek\\Desktop\\Clone\\ClickCart\\src\\ClickCart.Domain\\ClickCart.Domain.csproj": {
+                "projectPath": "C:\\Users\\Azizbek\\Desktop\\Clone\\ClickCart\\src\\ClickCart.Domain\\ClickCart.Domain.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\Net new Source Codes\\ClickCart\\src\\ClickCart.Domain\\ClickCart.Domain.csproj": {
+    "C:\\Users\\Azizbek\\Desktop\\Clone\\ClickCart\\src\\ClickCart.Domain\\ClickCart.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Net new Source Codes\\ClickCart\\src\\ClickCart.Domain\\ClickCart.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Azizbek\\Desktop\\Clone\\ClickCart\\src\\ClickCart.Domain\\ClickCart.Domain.csproj",
         "projectName": "ClickCart.Domain",
-        "projectPath": "D:\\Net new Source Codes\\ClickCart\\src\\ClickCart.Domain\\ClickCart.Domain.csproj",
+        "projectPath": "C:\\Users\\Azizbek\\Desktop\\Clone\\ClickCart\\src\\ClickCart.Domain\\ClickCart.Domain.csproj",
         "packagesPath": "C:\\Users\\Azizbek\\.nuget\\packages\\",
-        "outputPath": "D:\\Net new Source Codes\\ClickCart\\src\\ClickCart.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Azizbek\\Desktop\\Clone\\ClickCart\\src\\ClickCart.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Azizbek\\AppData\\Roaming\\NuGet\\NuGet.Config",

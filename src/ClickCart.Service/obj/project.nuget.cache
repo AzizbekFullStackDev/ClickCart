@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HPGGJBcPg4o2d+IT6vn+HUmX+IE6eOlUroi5H+LBTlYTd7wOu61d/5LIXaONumv6n1GKTi+GIhF1pwbtSSmAog==",
+  "dgSpecHash": "BCVRM9L9kNnbt1FBJVCW3g1SHUoLq/oS/S9td+wYFLztLGsomZmGEIz5eclK6EEG3S5f0IqSHQ99Zx7LEsWN3A==",
   "success": true,
-  "projectFilePath": "D:\\Net new Source Codes\\ClickCart\\src\\ClickCart.Service\\ClickCart.Service.csproj",
+  "projectFilePath": "C:\\Users\\Azizbek\\Desktop\\Clone\\ClickCart\\src\\ClickCart.Service\\ClickCart.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Azizbek\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

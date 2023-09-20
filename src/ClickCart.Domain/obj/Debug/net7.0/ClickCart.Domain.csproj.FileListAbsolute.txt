@@ -22,3 +22,15 @@ D:\Net new Source Codes\ClickCart\src\ClickCart.Domain\obj\Debug\net7.0\ClickCar
 D:\Net new Source Codes\ClickCart\src\ClickCart.Domain\obj\Debug\net7.0\refint\ClickCart.Domain.dll
 D:\Net new Source Codes\ClickCart\src\ClickCart.Domain\obj\Debug\net7.0\ClickCart.Domain.pdb
 D:\Net new Source Codes\ClickCart\src\ClickCart.Domain\obj\Debug\net7.0\ref\ClickCart.Domain.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Domain\bin\Debug\net7.0\ClickCart.Domain.deps.json
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Domain\bin\Debug\net7.0\ClickCart.Domain.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Domain\bin\Debug\net7.0\ClickCart.Domain.pdb
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Domain\obj\Debug\net7.0\ClickCart.Domain.csproj.AssemblyReference.cache
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Domain\obj\Debug\net7.0\ClickCart.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Domain\obj\Debug\net7.0\ClickCart.Domain.AssemblyInfoInputs.cache
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Domain\obj\Debug\net7.0\ClickCart.Domain.AssemblyInfo.cs
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Domain\obj\Debug\net7.0\ClickCart.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Domain\obj\Debug\net7.0\ClickCart.Domain.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Domain\obj\Debug\net7.0\refint\ClickCart.Domain.dll
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Domain\obj\Debug\net7.0\ClickCart.Domain.pdb
+C:\Users\Azizbek\Desktop\Clone\ClickCart\src\ClickCart.Domain\obj\Debug\net7.0\ref\ClickCart.Domain.dll
