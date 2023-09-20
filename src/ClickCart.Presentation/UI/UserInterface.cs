@@ -16,7 +16,7 @@ namespace ClickCart.Presentation.UI
 
             //  #region 
 
-            string audioFilePath2 = "D:\\Net new Source Codes\\ClickCart\\src\\ClickCart.Presentation\\UI\\sword.m4a"; // Replace with the actual path to your audio file
+            string audioFilePath2 = "../../../../ClickCart.Presentation/UI/sword.m4a"; // Replace with the actual path to your audio file
 
             // Check if the audio file exists
             if (!File.Exists(audioFilePath2))
@@ -57,7 +57,7 @@ namespace ClickCart.Presentation.UI
                 }
             }
 
-            string audioFilePath = "D:\\Net new Source Codes\\ClickCart\\src\\ClickCart.Presentation\\UI\\Intro.m4a"; // Replace with the actual path to your audio file
+            string audioFilePath = "../../../../ClickCart.Presentation/UI/Intro.m4a"; // Replace with the actual path to your audio file
 
             // Check if the audio file exists
             if (!File.Exists(audioFilePath))
